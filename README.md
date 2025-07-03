@@ -5,6 +5,7 @@
 Mercury v3+ Hyper es una red neuronal profunda diseñada para resolver problemas de clasificación binaria en espacios tridimensionales altamente no lineales. Esta implementación se especializa en la separación de patrones complejos entrelazados, utilizando técnicas avanzadas de optimización y regularización.
 
 ## Características Técnicas
+![{9C5A161D-B5BE-484E-BC6C-44D3E7B44D65}](https://github.com/user-attachments/assets/c225016f-c794-4cfe-9d96-a5aaa4934486)
 
 ### Arquitectura de la Red
 - **Tipo**: Red neuronal profunda feedforward
